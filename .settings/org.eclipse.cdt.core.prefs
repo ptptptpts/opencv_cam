@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.476655996/NDKROOT/delimiter=;
+environment/project/0.476655996/NDKROOT/operation=append
+environment/project/0.476655996/NDKROOT/value=E\:\\android-ndk-r10
+environment/project/0.476655996/OPENCV/delimiter=;
+environment/project/0.476655996/OPENCV/operation=append
+environment/project/0.476655996/OPENCV/value=C\:\\opencv_android
+environment/project/0.476655996/append=true
+environment/project/0.476655996/appendContributed=true
